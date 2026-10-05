@@ -4,6 +4,11 @@ Projeto de portfólio para acompanhamento de roteirização, execução de visit
 
 > **Importante:** todos os nomes, clientes, vendedores, valores e indicadores deste repositório são **100% fictícios**, criados exclusivamente para demonstração. Nenhuma base corporativa original está incluída.
 
+## 🖥️ Preview
+
+![Dashboard Preview](Dashboard-preview.png)
+![Dashboard Preview](Dashboard-preview-light.png)
+
 ## Funcionalidades
 
 - Filtros por canal, gerente, vendedor, cidade, mês e período
