@@ -1,10 +1,17 @@
 {
-  "title":"Roteirização & Performance Comercial",
-  "category":"Projeto profissional",
-  "summary":"Relatório web para acompanhar produtividade da equipe, cumprimento de roteiro e resultado comercial.",
-  "problem":"A operação precisava consolidar informações de rota, produtividade e vendas para avaliar o desempenho dos vendedores.",
-  "solution":"Dashboard interativo que cruza roteirização, venda ingressada e faturada em uma visão D-1.",
-  "technologies":["HTML","CSS","JavaScript","Claude","Figma"],
-  "featured":true,
-  "status":"Concluído"
+  "title": "Roteirização & Performance Comercial",
+  "category": "Projeto profissional",
+  "summary": "Relatório web para acompanhar produtividade da equipe, cumprimento de roteiro e resultado comercial.",
+  "problem": "A operação precisava consolidar informações de rota, produtividade e vendas para avaliar o desempenho dos vendedores.",
+  "solution": "Dashboard interativo que cruza roteirização, venda ingressada e faturada em uma visão D-1.",
+  "technologies": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Claude",
+    "Figma"
+  ],
+  "featured": true,
+  "status": "Concluído",
+  "cover": "Dashboard-preview.png"
 }
