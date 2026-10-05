@@ -13,5 +13,11 @@
   ],
   "featured": true,
   "status": "Concluído",
-  "cover": "Dashboard-preview.png"
+  "cover": "Dashboard-preview.png",
+  "figma": "https://www.figma.com/design/mqSEDMGXNCTpe0yp4rxqof/Acompanhamento-Involves---Landing-page?node-id=0-1&t=AE1Jl3ApqiJe0ZeN-1",
+  "design": {
+    "type": "UI/UX",
+    "title": "Protótipo no Figma",
+    "description": "Protótipo visual desenvolvido no Figma para estruturar a interface do Acompanhamento Involves."
+  }
 }
